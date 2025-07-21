@@ -29,6 +29,6 @@ Aqui está uma print do jogo em uma mini-Game Engine em python que criei.
 
 Os gráficos atuais do jogo não serão esses. Esses são apenas testes.
 
-![IMAGE 1]((https://raw.githubusercontent.com/gitmagyn/colossusmmo/refs/heads/main/cap1.png))
+![IMAGE 1](https://raw.githubusercontent.com/gitmagyn/colossusmmo/refs/heads/main/cap1.png)
 
-![IMAGE 2]((https://raw.githubusercontent.com/gitmagyn/colossusmmo/refs/heads/main/cap2.png))
+![IMAGE 2](https://raw.githubusercontent.com/gitmagyn/colossusmmo/refs/heads/main/cap2.png)
